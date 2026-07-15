@@ -2,9 +2,7 @@
 
 ![Architecture](docs/architecture/azure-architecture-diagram.jpg)
 
-# Azure Enterprise Infrastructure
 
-![Architecture Diagram](docs/architecture/azure-architecture-diagram.jpg)
 
 ## Overview
 
